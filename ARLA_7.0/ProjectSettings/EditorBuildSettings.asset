@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/OtherScenes/login.unity
+    guid: 59f9f48f0c12f8d42aa688eadc06992e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/OtherScenes/StartMenu.unity
+    guid: a8c23a9bafbac6d488c64d94a187ddad
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/QuizScene/MCQ.unity
+    guid: 4438313c92edc8c44a0216365677318f
+  - enabled: 1
+    path: Assets/QuizScene/MCQ2.unity
+    guid: 02c41f63654a86f47b4f5b1d0212dd89
+  - enabled: 1
+    path: Assets/QuizScene/MCQ3.unity
+    guid: 33af0095eb3506640b8c0778d3b67325
+  - enabled: 1
+    path: Assets/QuizScene/MCQ4.unity
+    guid: 6f0959afb562f9c47a2ac1945fa8ebe3
+  - enabled: 1
+    path: Assets/QuizScene/MCQ5.unity
+    guid: 83d9cd5720327de4b893ea20f1aabc1d
+  - enabled: 1
+    path: Assets/QuizScene/MCQ6.unity
+    guid: 31c9656f745f16a48b99ecbaa3497a14
+  - enabled: 1
+    path: Assets/QuizScene/MCQ7.unity
+    guid: 0943deb9b8b402242a5276c4290ff974
+  - enabled: 1
+    path: Assets/QuizScene/MCQ8.unity
+    guid: df6f429dc7f2b2b4d96ba8491e24e31f
+  - enabled: 1
+    path: Assets/QuizScene/MCQdone.unity
+    guid: d99886dd88745aa489c20a1fe6ee0f10
+  - enabled: 1
+    path: Assets/ChapterOverviewScene/ChpOverview.unity
+    guid: a7857970433604245bc5a5fbbc37d9f5
+  - enabled: 1
+    path: Assets/ChapterOverviewScene/Chp10.unity
+    guid: c72d499abf4f1234a8000f6b1d8a593b
+  - enabled: 1
+    path: Assets/ChapterOverviewScene/Chp11.unity
+    guid: 2e89bcec83452614eabb64ce3317c3e7
+  - enabled: 1
+    path: Assets/ChapterOverviewScene/Chp12.unity
+    guid: 97b82ed0517701349b5d083b57b63c8a
+  - enabled: 1
+    path: Assets/ChapterOverviewScene/FeedbackChpOverview.unity
+    guid: 8a5953ab59b4f5b4cb1d3a318d0875b6
+  - enabled: 1
+    path: Assets/ChapterOverviewScene/Submitted.unity
+    guid: d3ab1f83aca0bbe4a95f8a7ec911202d
+  - enabled: 1
+    path: Assets/OtherScenes/QuizGuide.unity
+    guid: 43641470c0247c34dbec94a7a77208cf
+  - enabled: 1
+    path: Assets/OtherScenes/HelpMenu.unity
+    guid: d49b119396741aa488986e7dc4e61be4
+  - enabled: 1
+    path: Assets/OtherScenes/EvaluationGuide.unity
+    guid: 160f9836004037541a47874bafe04442
+  - enabled: 1
+    path: Assets/OtherScenes/ARGuide.unity
+    guid: 80eb743abc221d94ea3b9b50e1c4e307
+  - enabled: 0
+    path: Assets/ChapterOverviewScene/FeedbackChpOverview_Teacher.unity
+    guid: 5bda0b21dac0e054cb4d33be84c3f1b7
+  - enabled: 0
+    path: Assets/OtherScenes/CharacterModule.unity
+    guid: ebb3ee87df0a69542877684f0600f195
+  - enabled: 0
+    path: Assets/OtherScenes/Character2Module.unity
+    guid: 482923821536d6c4594aa41ddd52fa4f
+  - enabled: 1
+    path: Assets/OtherScenes/EndCharacterModule.unity
+    guid: 863d3f2f6ccad75489cd1596ac4e9d9c
+  - enabled: 1
+    path: Assets/OtherScenes/dictionary.unity
+    guid: be4c145a857bbf44fb7c32ef5bd1d041
+  - enabled: 1
+    path: Assets/OtherScenes/book.unity
+    guid: 0808e2cb5de83774585390bfcb103c81
+  - enabled: 1
+    path: Assets/OtherScenes/CharacterModuleTarget.unity
+    guid: 3aa29b86333c109499972f3855cf32ec
+  - enabled: 1
+    path: Assets/OtherScenes/CharacterModuleTarget2.unity
+    guid: 3afdea22a4e9032489a3f3eaf4227bc7
+  - enabled: 1
+    path: Assets/OtherScenes/CharacterModuleTarget3.unity
+    guid: 75130d9a6095f1e40ae3534619f0ce78
+  - enabled: 1
+    path: Assets/OtherScenes/Feedback.unity
+    guid: 1c37dd5526f8d304dace0225069e5d11
+  - enabled: 1
+    path: Assets/OtherScenes/FeedbackSubmit.unity
+    guid: 31875d00791aa02408f2a5b44d850121
+  - enabled: 1
+    path: Assets/OtherScenes/certificate.unity
+    guid: 432ac7fa8f31420458fb1b877426b120

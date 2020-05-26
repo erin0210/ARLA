@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415958726854",
+    "firebase_url": "https://username-48964.firebaseio.com",
+    "project_id": "username-48964",
+    "storage_bucket": "username-48964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415958726854:android:3cff1f342eb78a37873fc7",
+        "android_client_info": {
+          "package_name": "com.rainbow.arla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415958726854-uriknjcne3f0fpiqjvf9nku5gvb1q2hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0tA-G21bVYzJp22q3qHEEZcdjOaXlzu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415958726854-uriknjcne3f0fpiqjvf9nku5gvb1q2hr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415958726854-db8ovh546fpsi3mj3jdq2a6bdcqudcbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rainbow.arla"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

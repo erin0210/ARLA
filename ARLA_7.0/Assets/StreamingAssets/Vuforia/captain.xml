@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMG_0248" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0247" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0246" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0245" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0244" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0243" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0242" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0241" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0240" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0239" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0238" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0237" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0236" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0235" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0234" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0233" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0232" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0231" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0230" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0229" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0228" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0227" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0226" size="100.000000 75.000000" />
+    <ImageTarget name="IMG_0225" size="100.000000 75.000000" />
+  </Tracking>
+</QCARConfig>
