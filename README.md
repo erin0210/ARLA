@@ -3,9 +3,6 @@ Mobile Application <br>
 Augmented Reality Literature Application
 
 APK: https://drive.google.com/file/d/1vZZL5rh1pJb500a3G6IWp7903ohinP8K/view?usp=sharing <br>
-Login Details:- <br>
-username: student <br>
-password: smktamanu123 <br>
 <br>
 Target Markers (Characters in Novel):- <br>
 https://drive.google.com/drive/folders/1cbyZXXX3S3V7u1-er5iOaJS2-Mhu7sMU?usp=sharing
